@@ -1,4 +1,4 @@
-# Olá! Eu sou Eduardo Santana 👋
+# Olá! Eu sou Eduardo Santana Almeida👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 
