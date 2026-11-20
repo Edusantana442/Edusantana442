@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou Eduardo Santana 👋
 
-<!--
-**Edusantana442/Edusantana442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Java em formação, com interesse em desenvolvimento de software e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 📚 Estudando Java e desenvolvimento de software.
+- 🧠 Conhecimentos em lógica de programação e Programação Orientada a Objetos.
+- 🤖 Experiência como avaliador de modelos de Inteligência Artificial na área de áudio.
+- 🔧 Experiência com suporte técnico e sistemas de monitoramento.
+- 🎯 Em busca de oportunidades para crescer na área de tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
+- Java
+- Git e GitHub
+- IntelliJ IDEA
+- Canva
+
+## 📌 Projeto em destaque
+
+**[ByteBank](https://github.com/Edusantana442/ByteBank)**
+
+Sistema bancário desenvolvido em Java, aplicando Programação Orientada a Objetos e padrões de projeto (Design Patterns).
+
+## 📫 Contato
+
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/eduardo-santana-almeida-172793422/)
+- GitHub: [Edusantana442](https://github.com/Edusantana442)
